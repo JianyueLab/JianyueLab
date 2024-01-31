@@ -7,3 +7,4 @@
 [中文 BLOG](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com) | [日本語の個人ウェブサイト](https://jp.jianyuelab.net)
 
 [![JianyueLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianyueLab&count_private=true&theme=highcontrast&show_icons=true)](https://jianyuehugo.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JianyueLab&layout=compact)
