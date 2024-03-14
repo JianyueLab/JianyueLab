@@ -1,6 +1,6 @@
 ![JianyueLab](https://pic.eke.vin/l/1/65ed96d8606e6/65ed96d8606e6.png)
 
-[中文 BLOG](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com)
+### [中文 BLOG](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com)
 
 ---
 
