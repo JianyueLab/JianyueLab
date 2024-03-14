@@ -1,3 +1,5 @@
+![JianyueLab](https://pic.eke.vin/l/1/65ed96d8606e6/65ed96d8606e6.png)
+
 - 👋 Hi, I’m JianyueHugo, a.k.a JianyueLab, or Valor
 - 👀 I’m interested in making websites and some game servers.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, and Nextjs.
