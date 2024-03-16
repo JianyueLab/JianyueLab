@@ -2,7 +2,7 @@
 
 ---
 
-### [Chinese BLOG (Mandarin) ](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com) | [Documentation](https://eke.vin/docs) | [Services Status](https://eke.vin/status)
+### | [Chinese BLOG (Mandarin) ](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com) | [Documentation](https://eke.vin/docs) | [Services Status](https://eke.vin/status) |
 
 ---
 
