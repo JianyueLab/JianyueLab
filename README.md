@@ -1,4 +1,4 @@
-![JianyueLab](https://pic.eke.vin/l/1/65ed96d8606e6/65ed96d8606e6.png)
+![JianyueLab](https://pic.awa.ms/l/1/65ed96d8606e6/65ed96d8606e6.png)
 
 ---
 
