@@ -1,10 +1,6 @@
 ![JianyueLab](https://pic.awa.ms/f/1/65ed96d8606e6/65ed96d8606e6.png)
 
----
-
 ### | [Chinese BLOG (Mandarin) ](https://jianyuelab.net) | [English Blog](https://jianyuehugo.com) | [Documentation](https://eke.vin/docs) | [Services Status](https://eke.vin/status) |
-
----
 
 - 👋 Hi, I’m JianyueHugo, a.k.a JianyueLab, or Valor
 - 👀 I’m interested in making websites and some game servers.
