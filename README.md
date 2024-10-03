@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, and Nextjs.
 - 💞️ I’m looking to collaborate on websites that can help me to study more and more about developing of websites.
 - 📫 If want to have talk with me, you may contact me with Email, Telegram, twitter, and Instagram. You may found them on my blog or profile of github.
+- 📖 Currently working on MCSManager community (translator, discord server MODs, discord intergration bot dev).
 
 ---
 
